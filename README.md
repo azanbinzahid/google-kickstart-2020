@@ -9,3 +9,4 @@ https://codingcompetitions.withgoogle.com/kickstart
 Round B : 4203  
 Round C : 7881  
 Round F : 1349  
+Round G : 5743  
